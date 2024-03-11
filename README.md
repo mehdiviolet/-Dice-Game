@@ -4,6 +4,8 @@
 
 Questo progetto è un semplice gioco in cui l'utente lancia un dado virtuale e tenta di ottenere il punteggio più alto possibile. Il gioco è stato sviluppato utilizzando JavaScript e offre un'esperienza divertente.
 
+<https://dado-game.netlify.app/>
+
 # Processo di Sviluppo:
 
 -Ho progettato un'interfaccia utente minimalista che mostrasse il dado e il punteggio del giocatore,utilizzando HTML, CSS e JavaScript.
