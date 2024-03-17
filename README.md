@@ -8,7 +8,7 @@ Questo progetto è un semplice gioco in cui l'utente lancia un dado virtuale e t
 
 # Processo di Sviluppo:
 
--Ho progettato un'interfaccia utente minimalista che mostrasse il dado e il punteggio del giocatore,utilizzando HTML, CSS e JavaScript.
+-Ho progettato un'interfaccia utente minimalista che mostrasse il dado e il punteggio del giocatore, utilizzando HTML, CSS e JavaScript.
 
 -Ho utilizzato una palette di colori semplici e armonici.
 
