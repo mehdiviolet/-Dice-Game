@@ -16,7 +16,7 @@ Questo progetto è un semplice gioco in cui l'utente lancia un dado virtuale e t
 
 -Inizia con Player 1 che lancia il dado, premendo il pulsante "Roll Dice".
 
--Un giocatore può continuare a lanciare il dado fino a quando non appare il numero 1. Quando il numero 1 appare, il turno passa all'altro giocatore. Durante il proprio turno, il giocatore accumula i punteggi dei lanci precedenti.
+-Un giocatore può continuare a lanciare il dado fino a quando non appare il numero 1. Quando il numero 1 appare e il turno passa all'altro giocatore. Durante il proprio turno, il giocatore accumula i punteggi dei lanci precedenti.
 
 -Il giocatore può decidere di fermarsi e conservare i punteggi accumulati premendo il pulsante "Hold". Premendo il pulsante "Hold", il turno passa all'altro giocatore.
 
